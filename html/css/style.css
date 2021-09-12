@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&family=Sawarabi+Gothic&display=swap');
+
+.icon{
+    color:black;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+a:link, a:visited, a:hover, a:active {
+    color: rgb(0, 187, 255);
+}
+
+body {
+    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Sawarabi Gothic', sans-serif;
+}
+.main {
+    padding-left: 2%;
+}
